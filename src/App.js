@@ -5,7 +5,7 @@ function App() {
   return (
     <Wrapper>
       <div>Test</div>
-      <div id="mint-counter"></div>
+      <div id="mint-button-container" />
     </Wrapper>
   );
 }
